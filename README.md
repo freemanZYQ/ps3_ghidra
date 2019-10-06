@@ -9,6 +9,9 @@ Is just looking for hex pattern of      stdu        r1, and create function ther
 
 ## ps3.py
 nasty script
+
 put ps3.xml in main ghidra folder
+
 does imports and exports
+
 only works on elfs for now
